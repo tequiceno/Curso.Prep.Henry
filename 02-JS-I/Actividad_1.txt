@@ -1,0 +1,18 @@
+Definiciones
+
+Variable:
+Es lo que se utiliza para almacenar algo y poder utilizarlo despues.
+
+Strings:
+Son cadenas de texto las cuales van dentro de comillas dobles o sencillas.
+
+Funciones (argumentos, return):
+Son objetos indispensables en todo lenguaje de programación, son los que le dan vida y uso a las variables.
+Argumentos: son elementos que se utilizan para hacer más poderosas las funciones.
+return: es la declaración que se utiliza para ponerle fin a una finción.
+
+Declaraciones is:
+Es la sentencia que se utiliza para evaluar una expresión condicional.
+
+Valores booleanos (true, false):
+Son los que se utilizan en JavaScript significar verdadero o falso (true, false).
